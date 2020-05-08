@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "entrante",
+  "info": {
+    "name": "entrante"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "descripcion": {
+      "type": "richtext"
+    }
+  }
+}

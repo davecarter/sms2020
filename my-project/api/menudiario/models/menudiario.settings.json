@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "menudiarios",
+  "info": {
+    "name": "menudiario"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "menudiario": {
+      "type": "component",
+      "repeatable": false,
+      "component": "menudiario.menudiario"
+    }
+  }
+}
