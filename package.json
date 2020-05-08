@@ -1,0 +1,23 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "SMSDelicies dynamic Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davecarter/sms2020.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davecarter/sms2020/issues"
+  },
+  "homepage": "https://github.com/davecarter/sms2020#readme",
+  "devDependencies": {
+    "strapi": "3.0.0-beta.20.3"
+  }
+}
