@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_menu_menus",
+  "info": {
+    "name": "menu",
+    "icon": "mortar-pestle"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date"
+    },
+    "starterTitle": {
+      "type": "string"
+    },
+    "starter01": {
+      "type": "richtext"
+    },
+    "starter02": {
+      "type": "richtext"
+    }
+  }
+}
